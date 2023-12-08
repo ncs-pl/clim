@@ -1,0 +1,3 @@
+{
+  "extends": "@nc0/clim-typescript-config/base.json"
+}
