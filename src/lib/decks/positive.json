@@ -1,0 +1,125 @@
+{
+  "name": "Positive",
+  "cards": [
+    {
+      "title": "Énergie solaire",
+      "description": "Monsieur le maire, notre entreprise propose une solution innovante pour réduire notre empreinte carbone. En installant des panneaux solaires, nous pouvons non seulement contribuer à la lutte contre le changement climatique, mais aussi stimuler l'économie locale. Acceptez-vous cette proposition ?",
+      "image": "/img/ceo.svg",
+      "alt": "Un chef d'entreprise",
+      "effects": {
+        "inhabitants": 3,
+        "industry": 20,
+        "climate": 15,
+        "finance": -15
+      }
+    },
+    {
+      "title": "Transition énergétique",
+      "description": "Salut Monsieur le maire ! On a cette idée géniale ! Pourquoi ne pas passer à 100% d'énergies renouvelables ? Ça renforcerait la durabilité de la ville. T'en penses quoi ? On fonce ou on laisse tomber ?",
+      "image": "/img/ceo.svg",
+      "alt": "Un chef d'entreprise",
+      "effects": {
+        "inhabitants": 25,
+        "industry": -25,
+        "climate": 50,
+        "finance": -60
+      }
+    },
+    {
+      "title": "Déoisement massif",
+      "description": "Monsieur le maire, beaucoup de citoyens ont exprimé leurs inquiétudes concernant le projet de déboisement de nos forêts. Envisagez-vous de reconsidérer cette décision ? Quelle est votre position à ce sujet ?",
+      "image": "/img/journalist.svg",
+      "alt": "Une journaliste",
+      "effects": {
+        "inhabitants": -10,
+        "industry": 20,
+        "climate": -30,
+        "finance": -5
+      }
+    },
+    {
+      "title": "Taxe sur les plastiques",
+      "description": "Notre association a une proposition à vous soumettre. Que diriez-vous d'instaurer une taxe sur les plastiques afin de lutter plus efficacement contre la pollution ? Seriez-vous en accord avec cette mesure ?",
+      "image": "/img/mayor-assistant.svg",
+      "alt": "L'assistant du maire",
+      "effects": {
+        "inhabitants": -3,
+        "industry": -20,
+        "climate": 40,
+        "finance": -5
+      }
+    },
+    {
+      "title": "Protection des côtes",
+      "description": "On envisage de planter une ceinture végétale le long des côtes pour atténuer les effets de la montée du niveau de la mer. Pouvons-nous agir en ce sens ?",
+      "image": "/img/mayor-assistant.svg",
+      "alt": "L'assistant du maire",
+      "effects": {
+        "inhabitants": 13,
+        "industry": -3,
+        "climate": 10,
+        "finance": -24
+      }
+    },
+    {
+      "title": "Innovation verte",
+      "description": "La ville devient de plus en plus écologique ! On devrait peut être soutenir la recherche dans les technologies vertes. Qu’en pensez vous ?",
+      "image": "/img/woman.svg",
+      "alt": "Une femme",
+      "effects": {
+        "inhabitants": 2,
+        "industry": 30,
+        "climate": 7,
+        "finance": -50
+      }
+    },
+    {
+      "title": "Reforestation et espaces verts",
+      "description": "Il n'y a pratiquement aucun espace vert dans cette ville. On se sent étouffé ici, et c'est loin d'être agréable.Vous devriez peut-être songer à planter des arbres.",
+      "image": "/img/woman.svg",
+      "alt": "Une femme",
+      "effects": {
+        "inhabitants": 15,
+        "industry": -14,
+        "climate": 26,
+        "finance": -30
+      }
+    },
+    {
+      "title": "Encourager le covoiturage",
+      "description": "Je fais du covoiturage tous les jours pour me rendre au travail. Si plus de gens commencent à faire pareil , on luttera contre le changement climatique",
+      "image": "/img/man.svg",
+      "alt": "Une homme",
+      "effects": {
+        "inhabitants": 8,
+        "industry": -5,
+        "climate": 10,
+        "finance": 0
+      }
+    },
+    {
+      "title": "Réduction de l'éclairage public",
+      "description": "Réduire l'éclairage public semble être une mesure simple et efficace pour économiser de l'énergie. Ça devrait être adopté, non ?",
+      "image": "/img/mayor-assistant.svg",
+      "alt": "L'assistant du maire",
+      "effects": {
+        "inhabitants": -7,
+        "industry": -10,
+        "climate": 20,
+        "finance": 10
+      }
+    },
+    {
+      "title": "Plaintes des citoyens",
+      "description": "Monsieur le Maire, des citoyens se plaignent de la réduction de l'éclairage public, craignant des problèmes de sécurité et une ambiance détériorée.",
+      "image": "/img/mayor-assistant.svg",
+      "alt": "L'assistant du maire",
+      "effects": {
+        "inhabitants": 20,
+        "industry": 4,
+        "climate": -40,
+        "finance": -10
+      }
+    }
+  ]
+}

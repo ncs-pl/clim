@@ -1,0 +1,17 @@
+{
+  "name": "Christmas",
+  "cards": [
+    {
+      "title": "Récompense",
+      "description": "Ho ho ho, cher Maire, cette année, tu as démontré un engagement exceptionnel envers la préservation de notre planète. En récompense pour tes efforts, je t'offre cette clé dorée enchantée. Elle te donne l'accès à la Salle des Miracles, où tu pourras découvrir des solutions magiques pour rendre ta ville encore plus écologique. Utilise-la avec sagesse, et que la magie du climat soit toujours de ton côté, ho ho ho!",
+      "image": "/img/santa-claus.svg",
+      "alt": "Le père Noël",
+      "effects": {
+        "inhabitants": 30,
+        "industry": 30,
+        "climate": 35,
+        "finance": 15
+      }
+    }
+  ]
+}

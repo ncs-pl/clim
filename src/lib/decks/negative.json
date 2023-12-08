@@ -1,0 +1,65 @@
+{
+  "name": "Positive",
+  "cards": [
+    {
+      "title": "Construction d'une autoroute",
+      "description": "Monsieur le maire, plusieurs citoyens sollicitent la réalisation d'une autoroute afin de faciliter leurs déplacements et dynamiser l'économie de la ville. Vous pensez que c’est une bonne idée?",
+      "image": "/img/mayor-assistant.svg",
+      "alt": "L'assistant du maire",
+      "effects": {
+        "inhabitants": 5,
+        "industry": 20,
+        "climate": -10,
+        "finance": -15
+      }
+    },
+    {
+      "title": "Centrale à charbon",
+      "description": "Il paraît que la vieille centrale à charbon n’est plus en état de fonctionner. Vous souhaitez la rénover ou privilégier un parc éolien sur la grande colline  ?",
+      "image": "/img/ceo.svg",
+      "alt": "Un chef d'entreprise",
+      "effects": {
+        "inhabitants": -10,
+        "industry": 30,
+        "climate": -50,
+        "finance": 10
+      }
+    },
+    {
+      "title": "Mauvais traitement des déchets",
+      "description": "Avec tous ces déchets qui traînent, notre ville devient un désastre environnemental. C'est mauvais pour le climat, non ? Faites quelques chose !",
+      "image": "/img/man.svg",
+      "alt": "Un homme",
+      "effects": {
+        "inhabitants": 15,
+        "industry": 4,
+        "climate": 20,
+        "finance": -20
+      }
+    },
+    {
+      "title": "Expansion immobilière",
+      "description": "Pour hisser notre ville au rang de grande métropole, il est impératif de réfléchir à son développement immobilier et à son expansion. Je vous propose de construire de grands complexes résidentiels. C’est une bonne idée, non ?",
+      "image": "/img/woman.svg",
+      "alt": "Une femme",
+      "effects": {
+        "inhabitants": 5,
+        "industry": -10,
+        "climate": -15,
+        "finance": 30
+      }
+    },
+    {
+      "title": "Révolution industrielle",
+      "description": "Les investisseurs s'intéressent de plus en plus à notre ville pour instaurer leurs usines. Devrions-nous accueillir ces investissements ?",
+      "image": "/img/mayor-assistant.svg",
+      "alt": "L'assistant du maire",
+      "effects": {
+        "inhabitants": 5,
+        "industry": 40,
+        "climate": -25,
+        "finance": 26
+      }
+    }
+  ]
+}
