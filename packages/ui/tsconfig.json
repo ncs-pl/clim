@@ -1,0 +1,9 @@
+{
+  "extends": "@nc0/clim-typescript-config/react-library.json",
+  "compilerOptions": {
+    "jsx": "react",
+    "outDir": "dist"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}
