@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 330 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1304.54,-229.574)">
+        <rect x="1304.54" y="229.574" width="330" height="500" style="fill:rgb(62,155,79);"/>
+        <clipPath id="_clip1">
+            <rect x="1304.54" y="229.574" width="330" height="500"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <circle cx="1469.54" cy="479.574" r="144.169" style="fill:rgb(70,167,88);"/>
+            <path d="M1422.03,466.465C1421.26,413.711 1452.27,394.233 1526.32,419.844C1519.3,434.268 1515.67,450.532 1515.72,468.785L1422.03,466.465Z" style="fill:rgb(221,68,37);"/>
+            <circle cx="1534.68" cy="419.609" r="10.962" style="fill:white;"/>
+            <circle cx="1534.68" cy="419.609" r="10.962" style="fill:white;"/>
+            <circle cx="1587.44" cy="508.767" r="7.66" style="fill:white;"/>
+            <circle cx="1565.72" cy="481.729" r="5.126" style="fill:white;"/>
+            <circle cx="1558.3" cy="527.113" r="3.845" style="fill:white;"/>
+            <circle cx="1559.36" cy="565.205" r="5.701" style="fill:white;"/>
+            <circle cx="1369.41" cy="562.058" r="4.474" style="fill:white;"/>
+            <circle cx="1365.69" cy="484.755" r="7.602" style="fill:white;"/>
+            <circle cx="1392.01" cy="464.976" r="1.56" style="fill:white;"/>
+            <circle cx="1369.18" cy="433.784" r="4.109" style="fill:white;"/>
+            <circle cx="1425.27" cy="393.895" r="6.263" style="fill:white;"/>
+            <circle cx="1447.45" cy="368.184" r="3.69" style="fill:white;"/>
+            <circle cx="1481.59" cy="371.001" r="3.733" style="fill:white;"/>
+            <circle cx="1561.4" cy="388.907" r="3.216" style="fill:white;"/>
+            <circle cx="1469.54" cy="669.574" r="109.409" style="fill:rgb(221,68,37);"/>
+            <rect x="1409.34" y="461.328" width="120.408" height="29.828" style="fill:white;"/>
+            <g>
+                <path d="M1469.54,523.363L1427.07,524.744L1415.33,522.396C1415.49,601.108 1428.52,650.659 1469.54,636.71" style="fill:white;"/>
+                <g transform="matrix(-1,0,0,1,2939.09,0)">
+                    <path d="M1469.54,523.363L1427.07,524.744L1415.33,522.396C1415.49,601.108 1428.52,650.659 1469.54,636.71" style="fill:white;"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1.03797,0,-18.6601)">
+                <path d="M1469.54,491.384L1426.33,491.384L1415.33,511.932L1414.04,517.921L1414.04,528.504C1432.39,544.882 1450.9,552.302 1469.54,552.477L1469.54,491.384Z" style="fill:rgb(173,127,88);"/>
+                <g transform="matrix(-1,0,0,1,2939.09,0)">
+                    <path d="M1469.54,491.384L1426.33,491.384L1415.33,511.932L1414.04,517.921L1414.04,528.504C1432.39,544.882 1450.9,552.302 1469.54,552.477L1469.54,491.384Z" style="fill:rgb(173,127,88);"/>
+                </g>
+            </g>
+            <circle cx="1445.96" cy="504.717" r="5.5"/>
+            <circle cx="1492.98" cy="504.717" r="5.5"/>
+            <g>
+                <path d="M1469.54,524.744L1435.63,530.958L1423.89,535.239L1415.74,531.511L1412.15,527.782L1410.63,537.173L1418.78,543.801L1440.05,545.596L1469.54,537.587" style="fill:white;"/>
+                <g transform="matrix(-1,0,0,1,2939.09,0)">
+                    <path d="M1469.54,524.744L1435.63,530.958L1423.89,535.239L1415.74,531.511L1412.15,527.782L1410.63,537.173L1418.78,543.801L1440.05,545.596L1469.54,537.587" style="fill:white;"/>
+                </g>
+            </g>
+            <path d="M1437.8,491.628C1430.88,503.873 1423.02,513.926 1414.04,517.921C1414.75,504.327 1415.43,491.242 1418.79,491.518L1437.8,491.628Z" style="fill:rgb(247,107,21);"/>
+            <g transform="matrix(-1,0,0,1,2938.15,0)">
+                <path d="M1437.8,491.628C1430.88,503.873 1423.02,513.926 1414.04,517.921C1414.75,504.327 1415.43,491.242 1418.79,491.518L1437.8,491.628Z" style="fill:rgb(247,107,21);"/>
+            </g>
+            <g>
+                <circle cx="1469.54" cy="521.262" r="12.354" style="fill:rgb(160,117,83);"/>
+                <path d="M1460.39,513.768L1469.46,503.902L1478.82,514.064L1460.39,513.768Z" style="fill:rgb(160,117,83);"/>
+            </g>
+        </g>
+    </g>
+</svg>
